@@ -1,5 +1,5 @@
 {
-  "gaEvent": "https://aso-clients-cpa.profit24.cc/api/1.0/",
+  "gaEvent": "https://aso-clients-cpa.profit24.cc/api/1.0/log",
   "gaEventChangeType": "https://aso-clients-cpa.profit24.cc/api/1.0/conversion/",
   "gaEventCheck": "https://aso-clients-cpa.profit24.cc/api/1.0/conversions/?log="
 }
